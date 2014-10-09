@@ -4,13 +4,11 @@
 
 Simple example of a Space Invaders game in JavaScript.
 
-Code taken from the video below.
-
 # Credit
 
 [Mary live-codes a JavaScript game from scratch – Mary Rose Cook at Front-Trends 2014](http://vimeo.com/105955605)
 
-Sound effect from [here](http://www.classicgaming.cc/classics/spaceinvaders/sounds.php)
+Sound effect from [here](http://www.classicgaming.cc/classics/spaceinvaders/sounds.php).
 
 # License
 
